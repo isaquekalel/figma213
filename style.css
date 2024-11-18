@@ -1,0 +1,32 @@
+.container{
+    background-color: antiquewhite;
+    height: 110px;
+    display: block;
+}
+
+.logo {
+    margin-left: 20px;
+    width: 50px;
+    height: 70px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+.nig {
+    color: black;
+}
+
+.frase {
+    color: #F08C7C;
+    margin-top: 30px;
+    text-align: left;
+    font-size: 80px;
+    font-family: "rubik", sans-serif; }
+
+.imagem2 {
+    margin-top: 60px;
+    
+}
